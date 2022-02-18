@@ -1,6 +1,6 @@
 # Real Address List
 
-This folder contains various lists of addresses scraped from big chain store websites. These addresses are all publically facing and easily accessible.
+This folder contains various lists of addresses scraped from big chain store websites. These addresses are all publically facing and easily accessible. No robot.txt rules were broken during scraping.
 These lists are for programming-related reasons only. Don't mail shit to these addresses.
 
 ### What could I possibly use a list of addresses for?
